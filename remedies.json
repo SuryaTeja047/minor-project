@@ -1,0 +1,116 @@
+{
+    "Apple___Apple_scab": {
+        "remedy": "Use fungicides such as captan or myclobutanil. Remove infected leaves."
+    },
+    "Apple___Black_rot": {
+        "remedy": "Prune infected limbs and apply copper or sulfur-based fungicides."
+    },
+    "Apple___Cedar_apple_rust": {
+        "remedy": "Use sulfur-based fungicides and remove nearby juniper plants."
+    },
+    "Apple___healthy": {
+        "remedy": "healthy"
+    },
+    "Blueberry___healthy": {
+        "remedy": "healthy"
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+        "remedy": "Use sulfur-based fungicides and improve air circulation."
+    },
+    "Cherry_(including_sour)___healthy": {
+        "remedy": "healthy"
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "remedy": "Apply fungicides such as azoxystrobin or pyraclostrobin."
+    },
+    "Corn_(maize)___Common_rust_": {
+        "remedy": "Use fungicides such as mancozeb or azoxystrobin."
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "remedy": "Use strobilurin-based fungicides, such as pyraclostrobin."
+    },
+    "Corn_(maize)___healthy": {
+        "remedy": "healthy"
+    },
+    "Grape___Black_rot": {
+        "remedy": "Use fungicides such as mancozeb or myclobutanil. Remove infected plant parts."
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "remedy": "Remove infected vines and apply systemic fungicides."
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "remedy": "Use fungicides such as captan or mancozeb."
+    },
+    "Grape___healthy": {
+        "remedy": "healthy"
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "remedy": "No known cure. Control with insecticides like imidacloprid to manage the vector."
+    },
+    "Peach___Bacterial_spot": {
+        "remedy": "Apply copper-based bactericides and plant resistant varieties."
+    },
+    "Peach___healthy": {
+        "remedy": "healthy"
+    },
+    "Pepper,_bell___Bacterial_spot": {
+        "remedy": "Use copper-based bactericides and avoid overhead watering."
+    },
+    "Pepper,_bell___healthy": {
+        "remedy": "healthy"
+    },
+    "Potato___Early_blight": {
+        "remedy": "Apply fungicides like chlorothalonil or mancozeb."
+    },
+    "Potato___Late_blight": {
+        "remedy": "Use fungicides such as chlorothalonil or mancozeb, and avoid excess moisture."
+    },
+    "Potato___healthy": {
+        "remedy": "healthy"
+    },
+    "Raspberry___healthy": {
+        "remedy": "healthy"
+    },
+    "Soybean___healthy": {
+        "remedy": "healthy"
+    },
+    "Squash___Powdery_mildew": {
+        "remedy": "Use sulfur or potassium bicarbonate-based fungicides."
+    },
+    "Strawberry___Leaf_scorch": {
+        "remedy": "Apply fungicides like captan or myclobutanil."
+    },
+    "Strawberry___healthy": {
+        "remedy": "healthy"
+    },
+    "Tomato___Bacterial_spot": {
+        "remedy": "Apply copper-based bactericides and avoid overhead watering."
+    },
+    "Tomato___Early_blight": {
+        "remedy": "Use fungicides like chlorothalonil or mancozeb."
+    },
+    "Tomato___Late_blight": {
+        "remedy": "Apply fungicides such as chlorothalonil or mancozeb and avoid wet conditions."
+    },
+    "Tomato___Leaf_Mold": {
+        "remedy": "Use fungicides like copper-based sprays. Improve air circulation."
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "remedy": "Apply fungicides such as mancozeb or chlorothalonil."
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "remedy": "Use miticides such as abamectin or bifenthrin."
+    },
+    "Tomato___Target_Spot": {
+        "remedy": "Use fungicides such as mancozeb or chlorothalonil."
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "remedy": "Control whiteflies with insecticides like imidacloprid."
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "remedy": "No cure; use resistant varieties and sanitize tools."
+    },
+    "Tomato___healthy": {
+        "remedy": "healthy"
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "Aloevera": {
+      "description": "Aloe vera is a succulent plant species of the genus Aloe.",
+      "uses": "It is used in skin treatments, and the gel is popular for burns and cuts."
+    },
+    "Amla": {
+      "description": "Amla, also known as Indian gooseberry, is a fruit-bearing tree.",
+      "uses": "It is rich in vitamin C and is used in traditional medicine."
+    },
+    "Amruta Balli": {
+      "description": "Amruta Balli is a medicinal vine known for its rejuvenating properties.",
+      "uses": "It is used to boost immunity and treat digestive disorders."
+    },
+    "Arali": {
+      "description": "Arali is a flowering shrub often used in landscaping.",
+      "uses": "Traditionally, its leaves and flowers are used in folk medicine."
+    },
+    "Ashoka": {
+      "description": "Ashoka is a sacred and medicinal tree in India.",
+      "uses": "Its bark is used in treating gynecological disorders and inflammation."
+    },
+    "Ashwagandha": {
+      "description": "Ashwagandha is a potent adaptogen used in Ayurvedic medicine.",
+      "uses": "It helps reduce stress, improve sleep, and boost cognitive function."
+    },
+    "Avocado": {
+      "description": "Avocado is a nutrient-dense fruit known for its healthy fats.",
+      "uses": "It supports heart health and is commonly used in skincare products."
+    },
+    "Bamboo": {
+      "description": "Bamboo is a fast-growing plant used for its versatile applications.",
+      "uses": "Its shoots are edible, and the plant is used in construction and crafting."
+    },
+    "Basale": {
+      "description": "Basale is a leafy green vegetable popular in South Indian cuisine.",
+      "uses": "It is rich in vitamins and used to treat respiratory issues."
+    },
+    "Betel": {
+      "description": "Betel is a heart-shaped leaf commonly chewed with areca nut.",
+      "uses": "It has digestive and breath-freshening properties."
+    },
+    "Betel Nut": {
+      "description": "Betel Nut, or Areca Nut, is the seed of the areca palm.",
+      "uses": "It is chewed for its stimulant properties, though excessive use can have health risks."
+    },
+    "Brahmi": {
+      "description": "Brahmi is a herb used to enhance memory and cognitive function.",
+      "uses": "It is often used in Ayurvedic medicine for brain health and mental clarity."
+    },
+    "Castor": {
+      "description": "Castor is a plant that produces seeds used to make castor oil.",
+      "uses": "Castor oil is used as a laxative and for skin care."
+    },
+    "Curry Leaf": {
+      "description": "Curry Leaf is an aromatic leaf used extensively in Indian cooking.",
+      "uses": "It is believed to improve digestion and lower cholesterol."
+    },
+    "Doddapatre": {
+      "description": "Doddapatre, also known as Indian borage, is an aromatic herb.",
+      "uses": "It is used in the treatment of coughs, colds, and respiratory issues."
+    },
+    "Ekka": {
+      "description": "Ekka is a plant traditionally used in folk medicine.",
+      "uses": "It is used to treat wounds, fever, and digestive problems."
+    },
+    "Ganike": {
+      "description": "Ganike is a medicinal plant known for its anti-inflammatory properties.",
+      "uses": "It is used in the treatment of arthritis and joint pain."
+    },
+    "Guava": {
+      "description": "Guava is a tropical fruit known for its high vitamin C content.",
+      "uses": "It is used to boost immunity and improve digestion."
+    },
+    "Geranium": {
+      "description": "Geranium is a fragrant plant with medicinal and ornamental uses.",
+      "uses": "It is used in aromatherapy and skincare for its soothing effects."
+    },
+    "Henna": {
+      "description": "Henna is a flowering plant used to dye skin, hair, and textiles.",
+      "uses": "It has cooling properties and is used in traditional body art."
+    },
+    "Hibiscus": {
+      "description": "Hibiscus is a flowering plant often used in herbal teas.",
+      "uses": "It is known for its antioxidant properties and support for heart health."
+    },
+    "Honge": {
+      "description": "Honge, also known as Indian Beech, is a tree with medicinal oil-producing seeds.",
+      "uses": "Its oil is used for skin disorders and in traditional lamp oils."
+    },
+    "Insulin": {
+      "description": "Insulin plant is known for its ability to regulate blood sugar levels.",
+      "uses": "It is used in treating diabetes and related metabolic disorders."
+    },
+    "Jasmine": {
+      "description": "Jasmine is a fragrant flowering plant often used in perfumes.",
+      "uses": "Its flowers are used in teas and for treating stress and insomnia."
+    },
+    "Lemon": {
+      "description": "Lemon is a citrus fruit rich in vitamin C.",
+      "uses": "It is used to boost immunity, aid digestion, and brighten skin."
+    },
+    "Lemon Grass": {
+      "description": "Lemon Grass is an aromatic herb used in culinary and medicinal applications.",
+      "uses": "It is used to relieve stress, improve digestion, and fight infections."
+    },
+    "Mango": {
+      "description": "Mango is a tropical fruit loved for its sweet taste.",
+      "uses": "It is rich in vitamins and is used to improve digestion and skin health."
+    },
+    "Mint": {
+      "description": "Mint is a refreshing herb used in cooking and traditional medicine.",
+      "uses": "It aids digestion, relieves headaches, and is used in breath fresheners."
+    },
+    "Nagadali": {
+      "description": "Nagadali is a medicinal herb used in Ayurvedic treatments.",
+      "uses": "It is used to treat respiratory issues and improve lung function."
+    },
+    "Neem": {
+      "description": "Neem is a tree known for its medicinal properties.",
+      "uses": "It is used in skin care, oral hygiene, and as an insect repellent."
+    },
+    "Nithyapushpa": {
+      "description": "Nithyapushpa is a flowering plant known for its vibrant blooms.",
+      "uses": "It is used in traditional medicine to treat skin and digestive issues."
+    },
+    "Nooni": {
+      "description": "Nooni, or Noni, is a tropical plant known for its antioxidant properties.",
+      "uses": "It is used to boost immunity and improve skin health."
+    },
+    "Papaya": {
+      "description": "Papaya is a tropical fruit known for its digestive benefits.",
+      "uses": "It is rich in enzymes and is used to treat indigestion and inflammation."
+    },
+    "Pepper": {
+      "description": "Pepper is a spicy fruit used in cooking and traditional medicine.",
+      "uses": "It aids digestion and has anti-inflammatory properties."
+    },
+    "Pomegranate": {
+      "description": "Pomegranate is a fruit known for its antioxidant properties.",
+      "uses": "It is used to improve heart health and boost immunity."
+    },
+    "Raktachandini": {
+      "description": "Raktachandini is a medicinal plant with anti-inflammatory properties.",
+      "uses": "It is used to treat wounds, ulcers, and skin disorders."
+    },
+    "Rose": {
+      "description": "Rose is a flowering plant known for its beauty and fragrance.",
+      "uses": "Its petals are used in skincare and aromatherapy."
+    },
+    "Sapota": {
+      "description": "Sapota, also known as Chikoo, is a tropical fruit with a sweet taste.",
+      "uses": "It is used to boost energy, improve digestion, and support bone health."
+    },
+    "Tulasi": {
+      "description": "Tulasi, or Holy Basil, is a sacred plant in India with medicinal properties.",
+      "uses": "It is used to treat respiratory disorders and enhance immunity."
+    },
+    "Wood Sorel": {
+      "description": "Wood Sorel is a small herb known for its sour taste.",
+      "uses": "It is used to treat fevers and improve digestion."
+    }
+  }
+  
